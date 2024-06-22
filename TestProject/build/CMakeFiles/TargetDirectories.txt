@@ -1,0 +1,3 @@
+/home/schnellecke_test/TestProject/build/CMakeFiles/main.dir
+/home/schnellecke_test/TestProject/build/CMakeFiles/edit_cache.dir
+/home/schnellecke_test/TestProject/build/CMakeFiles/rebuild_cache.dir
